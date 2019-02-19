@@ -1,0 +1,11 @@
+C:\Users\kendi\RiderProjects\Kendi\Kendi\bin\Debug\netcoreapp2.0\Kendi.deps.json
+C:\Users\kendi\RiderProjects\Kendi\Kendi\bin\Debug\netcoreapp2.0\Kendi.runtimeconfig.json
+C:\Users\kendi\RiderProjects\Kendi\Kendi\bin\Debug\netcoreapp2.0\Kendi.runtimeconfig.dev.json
+C:\Users\kendi\RiderProjects\Kendi\Kendi\bin\Debug\netcoreapp2.0\Kendi.dll
+C:\Users\kendi\RiderProjects\Kendi\Kendi\bin\Debug\netcoreapp2.0\Kendi.pdb
+C:\Users\kendi\RiderProjects\Kendi\Kendi\obj\Debug\netcoreapp2.0\Kendi.csprojAssemblyReference.cache
+C:\Users\kendi\RiderProjects\Kendi\Kendi\obj\Debug\netcoreapp2.0\Kendi.csproj.CoreCompileInputs.cache
+C:\Users\kendi\RiderProjects\Kendi\Kendi\obj\Debug\netcoreapp2.0\Kendi.AssemblyInfoInputs.cache
+C:\Users\kendi\RiderProjects\Kendi\Kendi\obj\Debug\netcoreapp2.0\Kendi.AssemblyInfo.cs
+C:\Users\kendi\RiderProjects\Kendi\Kendi\obj\Debug\netcoreapp2.0\Kendi.dll
+C:\Users\kendi\RiderProjects\Kendi\Kendi\obj\Debug\netcoreapp2.0\Kendi.pdb
